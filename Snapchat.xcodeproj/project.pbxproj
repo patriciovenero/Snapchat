@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		9310F3052AFAEFF000EE44F4 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 9310F3042AFAEFF000EE44F4 /* GoogleService-Info.plist */; };
+		931206E72B0CFA20003BFA08 /* RegisterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 931206E62B0CFA1F003BFA08 /* RegisterViewController.swift */; };
 		9330928F2B03C05F0086F865 /* SnapsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9330928E2B03C05F0086F865 /* SnapsViewController.swift */; };
 		933092932B03C5BB0086F865 /* ImagenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 933092922B03C5BB0086F865 /* ImagenViewController.swift */; };
 		93718D5C2B041AA800E23B69 /* FirebaseStorage in Frameworks */ = {isa = PBXBuildFile; productRef = 93718D5B2B041AA800E23B69 /* FirebaseStorage */; };
@@ -29,6 +30,7 @@
 
 /* Begin PBXFileReference section */
 		9310F3042AFAEFF000EE44F4 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		931206E62B0CFA1F003BFA08 /* RegisterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterViewController.swift; sourceTree = "<group>"; };
 		9330928E2B03C05F0086F865 /* SnapsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SnapsViewController.swift; sourceTree = "<group>"; };
 		933092922B03C5BB0086F865 /* ImagenViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagenViewController.swift; sourceTree = "<group>"; };
 		93718D5D2B04281D00E23B69 /* ElejirUsuarioViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ElejirUsuarioViewController.swift; sourceTree = "<group>"; };
@@ -68,6 +70,7 @@
 				93CD54D92AFA768500BACF25 /* iniciarSesionViewController.swift */,
 				9330928E2B03C05F0086F865 /* SnapsViewController.swift */,
 				933092922B03C5BB0086F865 /* ImagenViewController.swift */,
+				931206E62B0CFA1F003BFA08 /* RegisterViewController.swift */,
 			);
 			path = ViewControllers;
 			sourceTree = "<group>";
@@ -208,6 +211,7 @@
 				93718D5E2B04281D00E23B69 /* ElejirUsuarioViewController.swift in Sources */,
 				9330928F2B03C05F0086F865 /* SnapsViewController.swift in Sources */,
 				93718D622B042CD200E23B69 /* Usuario.swift in Sources */,
+				931206E72B0CFA20003BFA08 /* RegisterViewController.swift in Sources */,
 				933092932B03C5BB0086F865 /* ImagenViewController.swift in Sources */,
 				93CD54DA2AFA768500BACF25 /* iniciarSesionViewController.swift in Sources */,
 				93CD54D62AFA768500BACF25 /* AppDelegate.swift in Sources */,
